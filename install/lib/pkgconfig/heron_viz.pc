@@ -1,0 +1,8 @@
+prefix=/home/ryan/catkin_ws/install
+
+Name: heron_viz
+Description: Description of heron_viz
+Version: 0.0.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

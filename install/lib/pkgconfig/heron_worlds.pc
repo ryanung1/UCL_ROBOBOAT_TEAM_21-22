@@ -1,0 +1,8 @@
+prefix=/home/ryan/catkin_ws/install
+
+Name: heron_worlds
+Description: Description of heron_worlds
+Version: 0.2.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

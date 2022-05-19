@@ -1,0 +1,8 @@
+prefix=/home/ryan/catkin_ws/install
+
+Name: sosa_world
+Description: Description of sosa_world
+Version: 0.6.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

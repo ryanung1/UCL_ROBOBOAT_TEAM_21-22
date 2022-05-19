@@ -1,0 +1,8 @@
+prefix=/home/ryan/catkin_ws/devel
+
+Name: heron_msgs
+Description: Description of heron_msgs
+Version: 0.3.1
+Cflags: -I/home/ryan/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

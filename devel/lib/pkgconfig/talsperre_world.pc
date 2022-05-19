@@ -1,0 +1,8 @@
+prefix=/home/ryan/catkin_ws/devel
+
+Name: talsperre_world
+Description: Description of talsperre_world
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

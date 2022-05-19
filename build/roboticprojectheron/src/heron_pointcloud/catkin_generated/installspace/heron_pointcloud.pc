@@ -1,0 +1,8 @@
+prefix=/home/ryan/catkin_ws/install
+
+Name: heron_pointcloud
+Description: Description of heron_pointcloud
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
